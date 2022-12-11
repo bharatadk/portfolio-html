@@ -165,7 +165,7 @@ a {
 
     }
     .scrollable {
-    overflow-y: hidden;
+    overflow-y: visible;
     height: 100vh;
     margin-bottom: 10rem;
     
