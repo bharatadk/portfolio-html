@@ -132,6 +132,8 @@ a {
     .grid-2 {
         display: flex;
         flex-direction: column;
+        position: static;
+
     }
 
     body {
