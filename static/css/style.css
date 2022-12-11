@@ -159,7 +159,7 @@ a {
         top: 40vh;
         left: 0;
         position: absolute;
-        padding-bottom:20vh;
+        padding-bottom:10rem;
         overflow-y: visible; // hide vertical
 
 
@@ -167,7 +167,7 @@ a {
     .scrollable {
     overflow-y: hidden;
     height: 100vh;
-    margin-bottom: 20vh;
+    margin-bottom: 10rem;
     
 }
 
