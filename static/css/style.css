@@ -160,6 +160,7 @@ a {
         left: 0;
         position: absolute;
         padding: 3rem;
+        padding-bottom:20vh;
         overflow-y: hidden; // hide vertical
 
 
@@ -168,6 +169,7 @@ a {
     overflow-y: hidden;
     height: 100vh;
     margin-bottom: 10rem;
+    
 }
 
 }
