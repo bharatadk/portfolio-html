@@ -133,11 +133,12 @@ a {
         display: flex;
         flex-direction: column;
         position: static;
+        
 
     }
 
     body {
-        position: relative;
+        position: static;
     }
 
     .section-1 {
@@ -159,7 +160,16 @@ a {
         left: 0;
         position: absolute;
         padding: 3rem;
+        overflow-y: hidden; // hide vertical
+
+
     }
+    .scrollable {
+    overflow-y: hidden;
+    height: 100vh;
+    margin-bottom: 10rem;
+}
+
 }
 
 .more:hover {
